@@ -1,7 +1,7 @@
-from selenium import webdriver
-from selenium.webdriver.firefox.firefox_binary import FirefoxBinary
-from selenium.webdriver.firefox.firefox_profile import FirefoxProfile
-from selenium.webdriver.firefox.options import Options
+#from selenium import webdriver
+#from selenium.webdriver.firefox.firefox_binary import FirefoxBinary
+#from selenium.webdriver.firefox.firefox_profile import FirefoxProfile
+#from selenium.webdriver.firefox.options import Options
 import os
 
 
